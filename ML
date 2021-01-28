@@ -1,0 +1,17 @@
+Is Machine Learning Real Learning?  
+by Zdenko Kodelja
+-   	Real learning is ambiguous. 
+-   	Real learning means the highest form of human learning
+-   	Machine learning “is not real learning” (Bringsjord et al., 2018, p. 136)
+-   	Learning is the acquisition of knowledge
+-   Knowledge and mind: empiricism and rationalism
+-   	A priori
+o   Independent of sense experience, by intuition and deduction
+-   	A posteriori
+o   Derives from sense experience
+-   	“ML is a field of study that gives computers the ability to learn without being explicitly programmed” (Samuel, 1959, pp. 210–229)
+-   	“We do not yet know how to make computers learn nearly as well as people learn” (Mitchell, 1997, p. 1).
+-   	If machine learning is real learning, the use of the term “learning” in the expression “machine learning” is correct; if it is not real learning, then the use of the term “learning” is wrong and misleading.
+-   	Real learning is human learning and perhaps also animal learning, but not machine learning.
+-   	Samuel’s seminal interpretation of machine learning as “programming of a digital computer to behave in a way which, if done by humans or animals, would be described as involving the process of learning” (Samuel, 1959, p. 210).
+-   	Machine learning is not real learning, there are three fundamental reasons for studying machine learning. The first one “is to understand the process” of learning itself, the second is “to provide computers with the ability to learn”, and the third is to better understand machine learning and artificial intelligence as a constitutive part of the fourth scientific revolution that has been reshaping human reality, changing our self-understanding, our relationships, our society, our education and our employment (Floridi, 2016), and has “had a radical and widespread impact on our moral lives and on contemporary ethical debates” (Floridi, 2015). 
