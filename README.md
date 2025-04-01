@@ -5,5 +5,7 @@
 - 💬 Ask me about Digital Humanities
 - 📫 How to reach me: balkdhakal@gmail.com
 - 😄 Pronouns: he/his/him
+- https://othernepals.wordpress.com/
+- https://www.facebook.com/profile.php?id=61554244980063 
 
 
